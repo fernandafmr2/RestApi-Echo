@@ -1,4 +1,4 @@
-module crud
+module RestApi-Echo
 
 go 1.18
 

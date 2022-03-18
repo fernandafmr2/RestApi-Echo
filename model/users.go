@@ -1,6 +1,6 @@
 package model
 
-import "crud/config"
+import "RestApi-Echo/config"
 
 type Users struct {
 	Email       string `json:"email" form:"email"`

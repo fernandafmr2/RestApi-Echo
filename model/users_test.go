@@ -1,7 +1,7 @@
 package model
 
 import (
-	"crud/config"
+	"RestApi-Echo/config"
 	"fmt"
 	"testing"
 )

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"crud/config"
-	"crud/model"
+	"RestApi-Echo/config"
+	"RestApi-Echo/model"
 	"fmt"
 	"io"
 	"net/http"
